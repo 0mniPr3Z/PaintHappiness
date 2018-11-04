@@ -1,0 +1,80 @@
+#slider-172.slider ul li .slider-caption h2, #slider-172.slider ul li .slider-caption h2 a { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #ffffff; font-style: normal; font-weight: normal; }
+#slider-172.slider ul li .slider-caption p { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: normal; }
+#slider-172.slider ul li .slider-caption .special-font { font-size: 24px; font-family: 'Shadows Into Light', sans-serif; color: #ffffff; font-style: normal; font-weight: normal; }
+#slider-cycle-2.slider_cycle .slide-title h2, #slider-cycle-2.slider_cycle .slide-title h2 span { font-size: 48px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: normal; }
+#slider-cycle-2.slider_cycle .slide-title h2 span { font-size: 48px; font-family: 'Oswald', sans-serif; color: #ea7206; font-style: normal; font-weight: normal; }
+#slider-cycle-2.slider_cycle .slide-content p { font-size: 14px; font-family: 'Droid Sans', sans-serif; font-style: normal; font-weight: normal; }
+#slider-elastic .ei-title h2, #slider-elastic .ei-title h2 a { font-size: 40px; font-family: 'Playfair Display', sans-serif; color: #000000; font-style: italic; font-weight: normal; }
+#slider-elastic .ei-title h3, #slider-elastic .ei-title h3 a { font-size: 40px; font-family: 'Open Sans Condensed', sans-serif; color: #4D4C4C; font-style: normal; font-weight: normal; }
+#slider-cycle.slider_cycle .slide-title h2, #slider-cycle.slider_cycle .slide-title h2 span { font-size: 48px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: normal; }
+#slider-cycle.slider_cycle .slide-title h2 span { font-size: 48px; font-family: 'Oswald', sans-serif; color: #ea7206; font-style: normal; font-weight: normal; }
+#slider-cycle.slider_cycle .slide-content p { font-size: 12px; font-family: 'Droid Sans', sans-serif; font-style: normal; font-weight: normal; }
+#slider-thumbnails.slider.thumbnails .showcase-caption p { font-size: 13px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+#slider-thumbnails.slider.thumbnails div.showcase-tooltip { font-size: 12px; font-family: '"Lucida Console", Monaco, monospace', sans-serif; color: #000; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer p { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer a { color: #c97e08; }
+#slider-layer-slider.layer-slider .ls-layer a:hover { color: #2E2D2D; }
+#slider-layer-slider.layer-slider .ls-layer h1 { font-size: 22px; font-family: 'Rokkitt', sans-serif; color: #2E2D2D; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer h2 { font-size: 30px; font-family: 'Rokkitt', sans-serif; color: #2E2D2D; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer h3 { font-size: 26px; font-family: 'Rokkitt', sans-serif; color: #c97e08; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer h5 { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #2E2D2D; font-style: normal; font-weight: normal; }
+#slider-layer-slider.layer-slider .ls-layer h6 { font-size: 14px; font-family: 'Rokkitt', sans-serif; color: #2E2D2D; font-style: normal; font-weight: normal; }
+.post-title, .post-title a { font-size: 22px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+.blog-big .meta a, .blog-small .meta a { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000000; font-style: normal; font-weight: normal; }
+.blog-big .meta a:hover, .blog-small .meta a:hover { color: #333333; }
+.section.blog .meta h4 a { font-size: 15px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+.section.blog .meta h4 a:hover { color: #AC670C; }
+#footer { background: #ffffff; }
+#footer *, #copyright *, #copyright .inner, #footer .recent-post .thumb-img img, #footer .widget_archive ul li a, #footer .widget_archive ul li a:hover, #footer .widget_nav_menu ul li a, #footer .widget_nav_menu ul li a:hover, #footer .widget_pages ul li a, #footer .widget_pages ul li a:hover, #footer .widget_categories ul li a, #footer .widget_categories ul li a:hover, #footer #searchform input, #footer .widget_flickrRSS img, #footer .widget_nav_menu ul li a, #footer .widget_pages ul li a, #footer .widget_categories ul li a, #footer .widget_archive ul li a:hover, #footer .widget_nav_menu ul li.current_page_item > a, #footer .widget_pages ul li.current_page_item > a, #footer .widget_categories ul li.current_page_item > a, #footer .testimonial-widget div.name-testimonial, #footer .last-tweets-widget ul li, #footer .yit-widget-content .widget, #footer .portfolio-categories ul li, #footer .recent-comments .avatar img, #footer .more-projects-widget .work-thumb, #footer .more-projects-widget .controls, #footer .more-projects-widget .top, #footer .featured-projects-widget img, #footer .thumb-project img { border-color: #cfcfcf; }
+#copyright { background: #ffffff; }
+code, pre, body hr, #copyright .inner, #footer .inner, .gallery img, .gallery img, .content .archive-list ul, .content .archive-list ul li, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, #searchform input, .portfolio-categories ul li, .portfolio-categories ul li:hover, .recent-comments .avatar img, .content .contact-form li.submit-button input, #portfolio .read-more, #portfolio .more-link, #portfolio .read-more:hover, #portfolio .more-link:hover, .accordion-title, .accordion-item-thumb img, form input[type="text"], form textarea, .testimonial-page, div.section-caption .caption, .line, .last-tweets-widget ul li, .toggle p.tab-index, .toggle .content-tab, .tabs-container ul.tabs, .tabs-container ul.tabs li a, .tabs-container ul.tabs li:last-child, .tabs-container div.border-box, .testimonial, .google-map-frame, .section.blog .post, .section.blog h4.other-articles, .section.blog .sticky .thumbnail, .section .portfolio-sticky .work-categories, .testimonial, #searchform input, .blog-big .meta p, .blog-big p.list-tags, .blog-small .image-wrap, .comment-container, .image-square-style #comments img.avatar, #comments .comment-author img, .comment-meta, #respond input, #respond textarea, img.comment-avatar, .portfolio-big-image a.thumb, .portfolio-big-image a.more, .portfolio-big-image a.more:hover, .portfolio-big-image .work-thumbnail a.nozoom, .portfolio-big-image .work-skillsdate, .internal_page_item, .gallery-wrap li h5, .gallery-filters, .portfolio-full-description a.thumb, .portfolio-full-description a.more, .portfolio-full-description a.more:hover, .portfolio-full-description .work-skillsdate, .related_img, #portfolio.three-columns .overlay_a, .yit-widget-content .widget, .slider.thumbnails .showcase-thumbnail img, .slider.thumbnails .showcase-thumbnail img:hover, .slider.thumbnails .showcase-thumbnail.active img, .recent-post .thumb-img img, .widget_archive ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li a, .widget_nav_menu ul li a:hover, .widget_pages ul li a, .widget_pages ul li a:hover, .widget_categories ul li a, .widget_categories ul li a:hover, #searchform input, .widget_flickrRSS img, .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a, .testimonial-widget div.name-testimonial, .last-tweets-widget ul li, .yit-widget-content .widget, .portfolio-categories ul li, .recent-comments .avatar img, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img { border-color: #cfcfcf; }
+#header { background-color: #ffffff; }
+#header hr { border-color: #cfcfcf; }
+#header .menu > ul { background-color: #ffffff; }
+#header .menu > ul ul { background-color: #ffffff; }
+.error-404-text p { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+.error-404-text p a { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #B77A2B; font-style: normal; font-weight: normal; }
+.error-404-text p a:hover { color: #000000; }
+#portfolios { background: #ffffff url('http://yourinspirationtheme.com/demo/pinkrio/wp-content/themes/pinkrio/images/backgrounds/032.jpg'); font-size: 18px; font-family: 'Abel', sans-serif; color: #000000; font-style: italic; font-weight: bold; }
+.testimonial .testimonial-text p, .testimonial .testimonial-text-full p, .testimonial-page .testimonial-text-full p { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+.testimonial .testimonial-name a.name, .testimonial .testimonial-name p.name, .testimonial-page .testimonial-name a.name, .testimonial-page .testimonial-name p.name { font-size: 22px; font-family: 'Shadows Into Light', sans-serif; color: #AB5705; font-style: normal; font-weight: normal; }
+.testimonial .testimonial-name a.website, .testimonial-page .testimonial-name a.website { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #1C1C1C; font-style: normal; font-weight: normal; }
+.testimonials-slider ul.testimonials li blockquote p a { font-size: 24px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+.testimonials-slider ul.testimonials li p.meta { font-size: 13px; font-family: 'Droid Sans', sans-serif; color: #030303; font-style: normal; font-weight: bold; }
+#footer, #footer p, #footer li { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+#footer a { color: #b77a2b; }
+#footer a:hover { color: #030303; }
+#footer h3 { font-size: 20px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+#copyright, #copyright p, #copyright a { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+#copyright a { color: #b77a2b; }
+#copyright a:hover { color: #030303; }
+p, li, address, dd, blockquote, td, th, a.text-color { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+a, a.text-color:hover { color: #b77a2b; }
+a:hover { color: #030303; }
+#yit-breadcrumb a { font-size: 14px; font-family: 'Damion', sans-serif; color: #838383; font-style: italic; font-weight: normal; }
+#yit-breadcrumb a:hover { color: #535353; }
+h1, h1 a { font-size: 26px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h2, h2 a { font-size: 22px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h3, h3 a { font-size: 20px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h4, h4 a { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h5, h5 a { font-size: 15px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h6, h6 a { font-size: 12px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+#page-meta h3 { font-size: 28px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+#page-meta h4 { font-size: 24px; font-family: 'Rokkitt', sans-serif; color: #C86F06; font-style: normal; font-weight: normal; }
+.special-font { font-size: 12px; font-family: 'Shadows Into Light', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #A05F02; }
+#header #logo #textual { font-size: 40px; font-family: 'Montez', sans-serif; color: #1d1d1d; font-style: normal; font-weight: normal; }
+#header #logo #textual span { font-size: 40px; font-family: 'Montez', sans-serif; color: #ac670c; font-style: normal; font-weight: normal; }
+#header #logo #tagline { font-size: 18px; font-family: 'Droid Sans', sans-serif; color: #1d1d1d; font-style: normal; font-weight: normal; }
+#sidebar-header .widget h3 { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #1d1d1d; font-style: normal; font-weight: normal; }
+#sidebar-header .widget p, #sidebar-header .widget div, #sidebar-header .widget li, #sidebar-header .widget blockquote { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #939191; font-style: normal; font-weight: normal; }
+#header div.menu > ul > li > a { font-size: 15px; font-family: 'Rokkitt', sans-serif; color: #939191; font-style: normal; font-weight: normal; }
+#header div.menu > ul > li > a:hover { color: #000000; }
+#header div.menu > ul > li.current-menu-item > a, #header div.menu > ul > li.current-menu-ancestor > a, #header div.menu > ul > li.current_page_parent > a, #header div.menu > ul > li.current_page_ancestor > a, #header div.menu > ul > li.current_page_item > a { color: #000000; }
+#header div.menu > ul ul li a { font-size: 11px; font-family: 'Droid Sans', sans-serif; color: #939191; font-style: normal; font-weight: normal; }
+#header div.menu > ul ul li a:hover { color: #000000; }
+#header div.menu > ul ul li.current-menu-item > a, #header div.menu > ul ul .current-menu-ancestor > a { color: #000000; }
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 { font-size: 20px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal; }
+.sidebar p, .sidebar li, .sidebar div { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal; }
+.sidebar a { color: #b77a2b; }
+.sidebar a:hover { color: #030303; }

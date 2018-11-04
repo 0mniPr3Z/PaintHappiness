@@ -1,0 +1,93 @@
+input, button {
+    -webkit-appearance: none;
+}
+
+
+#wrapper { min-width: inherit; overflow: hidden; }
+.boxed #wrapper {
+    padding: 0;
+    width: 100%;
+}
+
+.inner {
+    max-width: 96%;
+    padding: 0 20px;
+}
+
+/* === HEADER */
+#header .inner { max-width: 100%; padding:0; }
+#header hr { width: 100%; }
+#logo { margin-left: 20px !important; }
+#sidebar-header { margin-right: 20px !important; }
+
+/* === SIDEBAR */
+/*.sidebar ul, .sidebar ol, .sidebar ul li, .sidebar ol li { max-width: 100%; }*/
+
+/* === SLIDERS */
+
+div.anythingSlider .back { padding-left: 2%; }
+div.anythingSlider .forward { padding-right: 2%; }
+
+.slider.thumbnails .showcase { max-width: 100%; }
+.slider.thumbnails .showcase-content { max-width: 100%; }
+.slider.thumbnails .showcase-content img { max-width: 97% !important; height: auto !important; width: auto; }
+.slider.thumbnails .showcase-thumbnail-button-forward { right: 7px; }
+
+.stretched .slider.thumbnails .showcase-thumbnail { margin-right: 18px; }
+
+.boxed .slider.thumbnails .showcase-thumbnail-restriction { margin-left: 18px; max-width:95%; }            
+
+.ls-layer .inner { 
+    width:100%; 
+}
+
+/* === MENU */
+#header .menu > ul {
+    padding: 0px 20px;
+    width: 101%;
+}
+
+#header .menu ul > li { padding: 0px 32px !important; }
+#header .menu ul > li:last-child { padding-right: 0px !important; }
+#header .menu > ul > li:first-child, #header .menu > ul > li:first-child > ul li  { padding-left: 0px !important; }
+
+/* only for the live preview */
+#header .menu > ul > li#menu-item-93 { padding-right: 0px !important; }
+
+#header .menu ul li.remove-under-1024 { display: none; }
+
+/* === ALL SECTIONS */
+.section .related_project {  }
+
+/* === SECTION BLOG */
+.sidebar-no .section.blog .post:not( .sticky ) { width: 30% !important; }
+
+/* === SECTION PORTFOLIO */
+.sidebar-right .section.portfolio .work-description, .sidebar-left .section.portfolio .work-description { width: 36%; }
+
+/* === CONTACT */
+.sidebar-left .contact-form li.submit-button input.alignright, .sidebar-right .contact-form li.submit-button input.alignright { margin-right: -0.4%; }
+
+/* === RESPOND */
+#respond p.form-submit { width: 100.8% !important; }
+
+/* === PORTFOLIO */
+#portfolio.three-columns .overlay_a { max-width: 100%; }
+#portfolio.three-columns li img { width: auto; max-width: 100%; height: auto; margin-bottom: 0px; }
+
+.portfolio-full-description a.thumb { width: 100%; max-width: 97%; }
+.portfolio-full-description img { max-width: 100%; }
+.section .portfolio-full-description img { width: auto; }
+
+/* === WIDGETS */
+.featured-projects-widget ul li h4 { clear:both; }
+.featured-projects-widget img { max-width: 95%; width: 100%; min-height: 131px; height: auto; }
+
+.sidebar-nav a, .sidebar-nav li { min-height: 40px; }
+
+.contact-info ul li { height: auto; min-height: 26px; }
+
+.widget_flickrRSS img { margin-right: 2px; }
+                  
+/* === SHORTCODES */
+.call-to-action .number-phone, .call-to-action .number-phone a { font-size:34px; }
