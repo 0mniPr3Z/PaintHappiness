@@ -182,7 +182,7 @@ if( isset($msgfin) ){
 	}
 		
 		
-	$msgResult = '<div class="usermessagea">'.$msgerr.'</div>';
+	$msgResult = '<div class="usermessage">'.$msgerr.'</div>';
 }else{
 	$msgResult = '';
 }
