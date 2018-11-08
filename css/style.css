@@ -340,9 +340,31 @@ html { min-height:101% }
 
 /* === MENU CLASSIC */
 /* second level */
-.classic #nav ul.sub-menu, .classic #nav ul.children { font-size: 1.05em; display:none; position:absolute; left:23px; top:30px; text-transform: none; padding:0; margin:0; width:150px; background:#fff; border:1px solid #d3d3d3; z-index:100000; -webkit-box-shadow:0px 1px 3px rgba(0, 0, 0, 0.3);-moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
+.classic #nav ul.sub-menu, .classic #nav ul.children {
+	font-size: 1.05em;
+	display:none;
+	position:absolute;
+	left:23px;
+	top:30px;
+	text-transform: none;
+	padding:0;
+	margin:0;
+	width:150px;
+	background:#fff;
+	border:1px solid #d3d3d3;
+	z-index:100000;
+	-webkit-box-shadow:0px 1px 3px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); 
+}
 .classic #nav li:first-child ul.sub-menu, .classic #nav li:first-child ul.children { left:-10px; }
-.classic #nav ul.sub-menu li, .classic #nav ul.children li { float:none; display:block; line-height:1em; font-size: 14px; margin:0; padding:0; }
+.classic #nav ul.sub-menu li, .classic #nav ul.children li {
+	float:none;
+	display:block;
+	line-height:1em;
+	font-size: 14px;
+	margin:0;
+	padding:0; }
 .classic #nav ul.sub-menu li:first-child a, .classic #nav ul.children li:first-child a { border:0; }
 .classic #nav ul.sub-menu li a, #nav ul.children a { color:#8c969e; letter-spacing:0; display: block; padding:10px 0; margin:0 10px; border-top: 1px solid #DDD; }
 .classic #nav a:hover, .classic #nav .current_page_item a, .classic #nav ul.sub-menu li a:hover, .classic #nav ul.children a:hover { color:#da7906; }
@@ -685,9 +707,11 @@ input#s { width:73%; padding:5px; }
 .content .contact-form li.full label { display: block }  
 .content .contact-form li.textarea-field { clear:both; width:auto; float:none; }
 .content .contact-form label span.label { font-size:13px; }
-.content .contact-form label span.sublabel { font-family: 'Calibri', 'Droid Sans', Verdana, Arial, sans-serif; font-size: 11px; color: #9C9B9B }  
+.content .contact-form label span.sublabel {
+	font-family: 'Calibri', 'Droid Sans', Verdana, Arial, sans-serif; font-size: 11px; color: #9C9B9B }  
 .content .contact-form li.text-field input, .content .contact-form li.checkbox-field input, .content .contact-form li.file-field input, .content .contact-form li select, .content .contact-form li textarea { margin-top:10px; padding:10px; }
-.content .contact-form li.text-field input, .content .contact-form li select { font-size: 12px; background-color:#fff; width:97.5%; }
+.content .contact-form li.text-field input, .content .contact-form li select {
+	font-size: 12px; background-color:#fff; width:97.5%; }
 .content .contact-form li select { padding:10px; }
 .content .contact-form li textarea {  width:97%; height:150px; background-color:#fff; } 
 .content .contact-form li.icon input, .content .contact-form li.icon textarea, .content .contact-form li input.icon, .content .contact-form li textarea.icon { background-repeat:no-repeat; } 

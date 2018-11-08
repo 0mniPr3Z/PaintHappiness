@@ -12,6 +12,12 @@ if(isset($_GET['pge']) AND !empty($_GET['pge']) AND !$_GET['pge'] == 0){
 }else{
 	$pge=0;
 }
+//récupération de l'Id
+if(isset($GET['id']) AND !empty($_GET['id'])){
+	$id = intval(htmlspecialchars($_GET['id']));
+}else{
+	$id = 0;
+}
 
 $data_pge =[
 	'',

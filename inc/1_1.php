@@ -17,7 +17,7 @@ Vous pouvez aussi utiliser le formulaire d'estimation ou de demande de devis en 
 
 <h2>TARIF HORAIRE</h2>
 <p>Nous pouvons vous faire une estimation sur le travail horaire</p>
-<p>Selon le type de prestations proposées et les condition de travail, notre tarif horaire  peut varier de 25€ et 60€.</p>
+<p>Selon le type de prestations proposées et les conditions de travail, notre tarif horaire  peut varier de 25€ à 60€.</p>
 
 <h2>TARIF AU M²</h2>
 <p>Nous pouvons aussi definir le devis en se basant sur la superficie à peindre.</p>
@@ -29,7 +29,7 @@ Enfin, l'utilisation de peinture ou de revêtement spécial ou la réalisation d
 
 
 <h2>POUR RÉSUMER, UN DEVIS DE PEINTURE VARIE EN FONCTION</h2>
-<ul>
+<ul style="text-align:center;">
 	<li>De la superficie</li>
 
 	<li>De la préparation de la surface à peindre</li>

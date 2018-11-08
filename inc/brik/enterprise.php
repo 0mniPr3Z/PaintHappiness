@@ -1,12 +1,5 @@
 <?php
-//récupération de l'Id
-if(!isset($id)){
-		if(isset($GET['id']) AND !empty($_GET['id'])){
-		$id = intval(htmlspecialchars($_GET['id']));
-	}else{
-		$id = 0;
-	}
-}
+
 
 
 $entreprises =[
